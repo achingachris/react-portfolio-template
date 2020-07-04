@@ -1,25 +1,25 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Chris Achinga",
+    "occupation":"Software Engineer",
+    "description":"Web Design and Development",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"Young energetic team player. Add more details",
+    "contactmessage":"Hire Me Please",
+    "email": "achinga.chris@gmail.com",
+    "phone": "+254 740 428522",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Bamburi",
+      "city":"Mombasa",
+      "state":"Kenya",
+      "zip": "+254"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "achinga.netlify.app",
+    "resumedownload":"achinga.netlify.app",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/",
         "className":"fa fa-facebook"
       },
       {
@@ -44,7 +44,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/ChrisAchinga",
         "className":"fa fa-github"
       },
       {
@@ -55,7 +55,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Full stack developer",
     "education":[
       {
         "school":"University?",
